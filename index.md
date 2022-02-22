@@ -14,4 +14,4 @@ The data literacy research group is an initiative of professors from the Graduat
 
 ### Support or Contact
 
-We love to discuss our research and also make friends. Feel free to [contact us](https://api.whatsapp.com/send?phone=555521987401692&text=Hello, Luciana! Let's have a coffee and talk about Data Literacy?) and have a cup of coffee. 
+We love to discuss our research and also make friends. Feel free to [contact us](https://api.whatsapp.com/send?phone=5521987401692&text=Hi%20Luciana!%20Can%20we%20talk%20about%20your%20Data%20Literacy%20project?) and have a cup of coffee. 
