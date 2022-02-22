@@ -1,12 +1,12 @@
 ## Data Literacy
 
-During my doctoral thesis research, I developed a qualitative scale to assess the data literacy of high school students.
+During my masters thesis research, I developed a qualitative scale to assess the data literacy of high school students. The motivation for the construction of the scale came from the perception of the importance of creating means for the teaching and learning of data science concepts, taking into account that we live in a data-oriented society. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can access the scale at this link: 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details, you can be the article this thesis, which can be found at (https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Group 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lu-Brito/literaciadedados/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
