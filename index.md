@@ -1,6 +1,6 @@
 ## Data Literacy
 
-During my master's thesis research, with support from the Data Literacy Research Group at UFRJ, I developed a qualitative scale to assess the data literacy of high school students.
+During my master's thesis research, with support from the Data Literacy Research Group at Universidade Federal do Rio de Janeiro, I developed a qualitative scale to assess the data literacy of high school students.
 
 From extensive bibliographic research, we understood that it was necessary to provide education of initial concepts in Data Science since we live in a data-oriented society.
 
@@ -14,4 +14,4 @@ The data literacy research group is an initiative of professors from the Graduat
 
 ### Support or Contact
 
-We love to discuss our research and also make friends. Feel free to [contact us](https://api.whatsapp.com/send?phone=5521987401692&text=Luciana) and have a cup of coffee. 
+We love to discuss our research and also make friends. Feel free to [contact us](https://api.whatsapp.com/send?phone=555521987401692&text=Hello, Luciana! Let's have a coffee and talk about Data Literacy?) and have a cup of coffee. 
