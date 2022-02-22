@@ -1,10 +1,12 @@
 ## Data Literacy
 
-During my masters thesis research, I developed a qualitative scale to assess the data literacy of high school students. The motivation for the construction of the scale came from the perception of the importance of creating means for the teaching and learning of data science concepts, taking into account that we live in a data-oriented society. 
+During my master's thesis research, with support from the Data Literacy Research Group at UFRJ, I developed a qualitative scale to assess the data literacy of high school students.
 
-You can access the scale at this link: xxxxxxxxx
+From extensive bibliographic research, we understood that it was necessary to provide education of initial concepts in Data Science since we live in a data-oriented society.
 
-For more details, you can be the article this thesis, which can be found at xxxxxx 
+Click here to learn about the Data Literacy Scale.
+
+For more information on the research carried out for its design, access the complete thesis here.
 
 ### Data Literacy Group
 
