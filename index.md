@@ -1,6 +1,6 @@
 ## Data Literacy
 
-You can use the [editor on GitHub](https://github.com/Lu-Brito/literaciadedados/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+During my doctoral thesis research, I developed a qualitative scale to assess the data literacy of high school students.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
