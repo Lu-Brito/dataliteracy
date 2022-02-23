@@ -1,2 +1,2 @@
-# Data Literacy
+# Towards Data Literacy
 
