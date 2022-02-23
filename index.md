@@ -1,4 +1,4 @@
-## Data Literacy
+## Towards Data Literacy
 
 During my master's thesis research, with support from the Data Literacy Research Group at Universidade Federal do Rio de Janeiro, I developed a qualitative scale to assess the data literacy of high school students.
 
