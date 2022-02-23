@@ -4,7 +4,7 @@ During my master's thesis research, with support from the Data Literacy Research
 
 From extensive bibliographic research, we understood that it was necessary to provide education of initial concepts in Data Science since we live in a data-oriented society.
 
-Click here to learn about the Data Literacy Scale.
+Click [here](https://github.com/Lu-Brito/dataliteracy/blob/main/DataLiteracyScale.png) to learn about the Data Literacy Scale.
 
 For more information on the research carried out for its design, access the complete thesis here.
 
