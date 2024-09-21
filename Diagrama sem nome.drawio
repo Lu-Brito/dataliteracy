@@ -34,11 +34,29 @@
         <mxCell id="3pvqfr6FFzcwUk0cU6x2-12" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Verdana&quot;&gt;Descreva textualmente as características da turma representada no conjunto de dados, com base nas análises realizadas nas fases anteriores&lt;/font&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;.&lt;br&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="270" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="3pvqfr6FFzcwUk0cU6x2-13" value="&lt;font style=&quot;font-size: 27px;&quot; face=&quot;Verdana&quot;&gt;Explique como a interação entre as pessoas de seu grupo impactou a análise dos dados e os resultados obtidos&lt;/font&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;.&lt;br&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-13" value="&lt;font style=&quot;font-size: 27px;&quot; face=&quot;Verdana&quot;&gt;Explique como a interação entre as pessoas do seu grupo impactou a análise dos dados e os resultados obtidos&lt;/font&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;.&lt;br&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="520" y="670" width="245" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="3pvqfr6FFzcwUk0cU6x2-14" value="&lt;font style=&quot;font-size: 27px;&quot; face=&quot;Verdana&quot;&gt;Com ajuda de um software, escolha uma das tabelas fornecidas e construa ao menos 1 gráfico de seu interesse.&lt;br&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-14" value="&lt;font style=&quot;font-size: 27px;&quot; face=&quot;Verdana&quot;&gt;Com ajuda de um software, construa ao menos 1 gráfico de seu interesse a partir dos dados fornecidos.&lt;br&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="927.5" y="670" width="245" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fase 1&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fase 2&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="80" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fase 3&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="80" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fase 4&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="600" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fase 5&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3pvqfr6FFzcwUk0cU6x2-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fase 6&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="600" width="112" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
